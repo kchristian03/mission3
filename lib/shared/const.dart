@@ -7,6 +7,6 @@ class Const {
       'Flutter Starter is a starter kit for Flutter project.';
   static const String appUrl = '';
 
-  static const String baseUrl = 'https://api.rajaongkir.com';
+  static const String baseUrl = 'api.rajaongkir.com';
   static const String apiKey = '09bb61694ddb64fed8c6945f40df53a7';
 }
